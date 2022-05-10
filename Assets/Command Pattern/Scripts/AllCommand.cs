@@ -2,6 +2,7 @@ using System.Collections.Generic;
 
 namespace Command_Pattern.Scripts
 {
+    //is store all command to use
     public class AllCommand
     {
         private Stack<ICommand> commandsList;
