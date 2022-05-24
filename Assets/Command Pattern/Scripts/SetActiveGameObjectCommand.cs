@@ -13,7 +13,6 @@ namespace Command_Pattern.Scripts
         public void Execute()
         {
             SetActive();
-
         }
 
         public void Undo()
