@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 66504037}
   - component: {fileID: 66504036}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: Color X Y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -306,8 +306,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 66504035}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 15.9, y: 7.36, z: 11.87}
-  m_LocalScale: {x: 1.4834334, y: 1, z: 1}
+  m_LocalPosition: {x: 12.45, y: 7.36, z: 11.87}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -325,7 +325,7 @@ GameObject:
   - component: {fileID: 1159303328}
   - component: {fileID: 1159303327}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: Color UV
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -402,8 +402,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1159303326}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 1.66, y: 7.36, z: 11.87}
-  m_LocalScale: {x: 1.4834334, y: 1, z: 1}
+  m_LocalPosition: {x: -9.08, y: 7.36, z: 11.87}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 1374119088}
   - component: {fileID: 1374119087}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Basic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -498,8 +498,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1374119086}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: -13.5, y: 7.36, z: 11.87}
-  m_LocalScale: {x: 1.4834334, y: 1, z: 1}
+  m_LocalPosition: {x: -9.08, y: -4.94, z: 11.87}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -600,7 +600,7 @@ GameObject:
   - component: {fileID: 2019815573}
   - component: {fileID: 2019815572}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: Lerp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -677,8 +677,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2019815571}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 15.9, y: -5.55, z: 11.87}
-  m_LocalScale: {x: 1.4834334, y: 1, z: 1}
+  m_LocalPosition: {x: 12.45, y: -5.55, z: 11.87}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
